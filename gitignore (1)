@@ -1,0 +1,22 @@
+# Dataset (too large for GitHub, download via Kaggle)
+creditcard.csv
+creditcardfraud.zip
+*.csv
+
+# Kaggle credentials (NEVER commit this)
+kaggle.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
