@@ -2,7 +2,7 @@
 
 An **unsupervised machine learning** project that detects fraudulent credit card transactions using anomaly detection algorithms — without needing labeled training data for the fraud class.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/credit-card-fraud-detection/blob/main/credit_card_fraud_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZbXe4fNmpjRvZsrM-EFOdDOa3edHcR-T?usp=drive_link)
 
 > **Educational Purpose** — Built as a cybersecurity/ML learning task to understand anomaly-based fraud detection, a technique widely used in real-world financial security systems.
 
